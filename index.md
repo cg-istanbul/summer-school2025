@@ -9,4 +9,6 @@ This summer school offers introductory lectures on **poset combinatorics** and *
 - **Selçuk Kayacan** (Bahçeşehir University)  
 - **Müge Taşkın** (Boğaziçi University)  
 
-
+# Venue  
+The summer school will be held at **Feza Gürsey Institute**, located in Istanbul, Turkey.  
+[Google Maps Link](https://maps.app.goo.gl/Svdz4dpMAb1Avdb39)  
