@@ -33,8 +33,8 @@ Methods from **topological combinatorics** will also be explored, with a possibl
 - **Selçuk Kayacan** (Bahçeşehir University)  
 - **Müge Taşkın** (Boğaziçi University)  
 
-## Venue  
-The summer school will be held at **Feza Gürsey Institute**, located in Istanbul, Turkey.  
+## Venue and Date  
+The summer school will take place from **June 23–27, 2025**, at **Feza Gürsey Institute**, Istanbul, Turkey.  
 [Google Maps Link](https://maps.app.goo.gl/Svdz4dpMAb1Avdb39)  
 
 ## Related Event: Combinatorics and Geometry in İstanbul  
