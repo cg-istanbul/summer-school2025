@@ -1,4 +1,4 @@
-# Summer School: Topics in Algebraic and Geometric Combinatorics  
+# Topics in Algebraic and Geometric Combinatorics  
 **June 23–27, 2025** | Feza Gürsey Institute  
 
 ## About  
