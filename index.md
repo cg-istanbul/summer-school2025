@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Topics in Algebraic and Geometric Combinatorics"
+description: "June 23-27, 2025 | Feza Gürsey Institute"
+---
+
 ## About  
 This summer school offers introductory lectures on **poset combinatorics** and **symmetric group representations**, aimed at graduate and advanced undergraduate students.  
 
