@@ -1,17 +1,18 @@
 ---
----
+---  // Required Jekyll front matter
+@import "{{ site.theme }}";  // Loads Cayman theme first
 
-@import "{{ site.theme }}";
+/* Custom header - keeps original green color while allowing background */
 .page-header {
-    background: no-repeat center center;
-    background-size: cover;
+    background-color: #159957 !important;  // Cayman's default green
+    // background-image: url('your-image.jpg') !important;  // Add if you want image
+    background-size: cover !important;
+    padding: 4rem 4rem !important;  // Maintain original padding
+    color: white !important;  // Ensures text visibility
 }
 
-/* Hide "View on GitHub" button */
-header a[href*="github.com"] {
-    display: none !important;
-}
-
+/* Hide GitHub button and footer */
+header a[href*="github.com"],
 footer {
     display: none !important;
 }
