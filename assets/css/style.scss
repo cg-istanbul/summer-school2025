@@ -1,13 +1,12 @@
 ---
----  // Required Jekyll front matter
-@import "{{ site.theme }}";  // Loads Cayman theme first
+---  
 
-/* Custom header - keeps original green color while allowing background */
+@import "{{ site.theme }}";  
 .page-header {
-    background-color: #159957 !important;  // Cayman's default green
+    background-color: #159957 !important;  
     background-size: cover !important;
-    padding: 4rem 4rem !important;  // Maintain original padding
-    color: white !important;  // Ensures text visibility
+    padding: 4rem 4rem !important;  
+    color: white !important;  
 }
 
 /* Hide "View on GitHub" button */
