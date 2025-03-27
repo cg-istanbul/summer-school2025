@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+.page-header {
+    background: no-repeat center center;
+    background-size: cover;
+}
 
 /* Hide "View on GitHub" button */
 header a[href*="github.com"] {
