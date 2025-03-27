@@ -1,1 +1,1 @@
-# cgi2025
+# Summer School 2025
