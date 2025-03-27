@@ -1,15 +1,12 @@
-# Topics in Algebraic and Geometric Combinatorics  
-**June 23–27, 2025** | Feza Gürsey Institute  
-
 ## About  
-Introductory lectures on poset combinatorics and symmetric group representations.  
+This summer school offers introductory lectures on **poset combinatorics** and **symmetric group representations**, aimed at graduate and advanced undergraduate students.  
 
 ## Program  
-- **Morning**: Poset Combinatorics (Selçuk Kayacan)  
-- **Afternoon**: Representations of Symmetric Group (Müge Taşkın)  
+- **Morning (9:30–12:30):** *Poset Combinatorics* – Selçuk Kayacan  
+- **Afternoon (13:30–16:30):** *Representations of the Symmetric Group* – Müge Taşkın  
 
 ## Organizers  
-- Selçuk Kayacan (Bahçeşehir University)  
-- Müge Taşkın (Boğaziçi University)  
+- **Selçuk Kayacan** (Bahçeşehir University)  
+- **Müge Taşkın** (Boğaziçi University)  
 
 
