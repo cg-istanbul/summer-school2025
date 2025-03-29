@@ -50,7 +50,7 @@ For more details about the center, including directions and classroom locations,
 The summer school is **free of charge**, but participants must register. Please fill out the registration form here:
    
 <div class="center-button">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview" target="_blank" class="btn">Register Now</a>
+    <a href="https://docs.google.com/forms/d/1iDACIsGA08n0qgdQ2RJbLTaSeKuAUbTAB6dFs_KIJN0/preview" target="_blank" class="btn">Register Now</a>
 </div>
 
 ## Related Event: Combinatorics and Geometry in İstanbul  
