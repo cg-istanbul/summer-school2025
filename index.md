@@ -5,7 +5,10 @@ description: "June 23-27, 2025 | Feza Gürsey Center for Physics and Mathematics
 ---
 
 ## About  
-This summer school offers introductory lectures on **poset combinatorics** and **symmetric group representations**, aimed at graduate and advanced undergraduate students.  
+This summer school offers introductory lectures on **poset combinatorics** and **symmetric group representations**, aimed at graduate and advanced undergraduate students. 
+
+## Date
+**June 23-27, 2025**
 
 ## Program  
 - **Morning (9:30–12:30):** *Poset Combinatorics* – Selçuk Kayacan  
@@ -21,7 +24,7 @@ Methods from **topological combinatorics** will also be explored, with a possibl
 **Prerequisites:** Basic knowledge in algebra, number theory and topology. Advanced undergraduates with strong mathematical maturity are welcome.
 
 ### Representations of symmetric group
-???
+*(Content to be added!)*
 
 
 
