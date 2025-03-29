@@ -28,7 +28,7 @@ Methods from **topological combinatorics** will also be explored, with a possibl
 
 ## Venue
 The summer school will be held at **Feza Gürsey Center for Physics and Mathematics, Boğaziçi University, Kandilli Campus, Istanbul, Turkey.**
-For more details about the center, including directions and classroom locations, please visit [Feza Gürsey Center for Physics and Mathematics](https://fezagursey.bogazici.edu.tr/).
+For more details about the center, including directions and classroom locations, please visit [Feza Gürsey Center for Physics and Mathematics](https://fezagursey.bogazici.edu.tr/){:target="_blank"}.
   
  
 <!-- Leaflet CSS -->
@@ -55,7 +55,7 @@ The summer school is **free of charge**, but participants must register. Please 
 
 ## Related Event: Combinatorics and Geometry in İstanbul  
 
-This summer school serves as a preparatory event for the workshop **[Combinatorics and Geometry in İstanbul](https://cg-istanbul.github.io/cgi2025/)**, which will take place on **August 5-6, 2025**.  
+This summer school serves as a preparatory event for the workshop **[Combinatorics and Geometry in İstanbul](https://cg-istanbul.github.io/cgi2025/){:target="_blank"}**, which will take place on **August 5-6, 2025**.  
 
 The workshop aims to bring together researchers in combinatorics, algebra, and geometry from Turkey and abroad. Graduate students attending the summer school will have the opportunity to build foundational knowledge that may help them engage with the research-level discussions in the workshop.  
 
