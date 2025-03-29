@@ -3,7 +3,7 @@ function initMap() {
     const location = [41.06321, 29.06416];
 
     // Initialize the map
-    const map = L.map("map").setView(location, 15); // Centered at Feza Gürsey with zoom level 13
+    const map = L.map("map").setView(location, 16); // Centered at Feza Gürsey with zoom level 16
 
     // Add a tile layer (standard OpenStreetMap tiles)
     // L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
