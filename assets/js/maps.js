@@ -1,6 +1,6 @@
 function initMap() {
     // Coordinates for Feza Gürsey
-    const location = [41.1043, 29.0215];
+    const location = [41.06066, 29.06326];
 
     // Initialize the map
     const map = L.map("map").setView(location, 15); // Centered at Feza Gürsey with zoom level 15
