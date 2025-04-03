@@ -47,7 +47,7 @@ For more details about the center, including directions and classroom locations,
 
 ## Registration
 
-The summer school is **free of charge**, but participants must register. Please fill out the registration form here:
+The summer school is **free of charge**, but participants must register. The registration **deadline is June 13, 2025**. Please fill out the registration form here:
    
 <div class="center-button">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScsgZBZobejpVYhxrhrgjJHpCwiMsBVJueXuywPzdut1NWDOA/viewform?usp=preview" target="_blank" class="btn">Register Now</a>
@@ -59,6 +59,6 @@ This summer school serves as a preparatory event for the workshop **[Combinatori
 
 The workshop aims to bring together researchers in combinatorics, algebra, and geometry from Turkey and abroad. Graduate students attending the summer school will have the opportunity to build foundational knowledge that may help them engage with the research-level discussions in the workshop.  
 
-## Organizers  
-- Selçuk Kayacan (Bahçeşehir University)  
-- Müge Taşkın (Boğaziçi University)  
+## Organizers    
+- Müge Taşkın (Boğaziçi University)
+- Selçuk Kayacan (Bahçeşehir University) 
