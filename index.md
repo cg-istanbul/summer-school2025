@@ -50,7 +50,7 @@ For more details about the center, including directions and classroom locations,
 The summer school is **free of charge**, but participants must register. The registration **deadline is June 13, 2025**. Please fill out the registration form here:
    
 <div class="center-button">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScsgZBZobejpVYhxrhrgjJHpCwiMsBVJueXuywPzdut1NWDOA/viewform?usp=preview" target="_blank" class="btn">Register Now</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScsgZBZobejpVYhxrhrgjJHpCwiMsBVJueXuywPzdut1NWDOA/viewform?usp=sharing" target="_blank" class="btn">Register Now</a>
 </div>
 
 ## Related Event: Combinatorics and Geometry in İstanbul  
