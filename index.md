@@ -3,6 +3,20 @@ layout: default
 title: "Topics in Algebraic and Geometric Combinatorics"
 description: "June 23-27, 2025 | Feza Gürsey Center for Physics and Mathematics"
 ---
+---
+
+### Important Update
+
+Starting from **Tuesday, June 24**, all remaining lectures of the summer school will take place at the **Mathematics Department Lounge**, located at **Boğaziçi University South Campus**, instead of the Feza Gürsey Center.
+
+Please also note the **updated lecture times**:
+
+- **Morning sessions**: 10:00 – 13:00  
+- **Afternoon sessions**: 14:30 – 17:30
+
+An email has already been sent to all participants. If you need help locating the new venue, feel free to contact us.
+
+---
 
 ## About  
 This summer school offers introductory lectures on **poset combinatorics** and **symmetric group representations**, aimed at graduate and advanced undergraduate students. 
